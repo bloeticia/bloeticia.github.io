@@ -1,0 +1,22 @@
+---
+title: ""
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Mail
+      href: mailto:blandineyameogo20@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/oousmane
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/profile.php?id=100008047517135
+---
+
+**Blandine L. YAMEOGO**, Agent Technique d'Agriculture.
+
+------------------------------------------------------------------------
+
+Je suis Blandine, jeune technicienne passionnée et dotée d'une formation académique en Agriculture. En dehors des potagers, que j’entretiens à la maison avec amour, j’adore tout ce qui a trait aux arts culinaires. Convaincue que les repas sains sont tout ce qu’il y’a de meilleurs, je n’ai pas hésitée une seconde à suivre des cours en techniques de productions agricoles.

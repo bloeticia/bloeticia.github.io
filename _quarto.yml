@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Blandine L. YAMEOGO"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Accueil
+      - href: cv-bloeticia.pdf
+        text: Curriculum Vitae
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+editor: visual
+
