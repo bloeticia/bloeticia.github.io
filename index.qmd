@@ -9,7 +9,7 @@ about:
       href: mailto:blandineyameogo20@gmail.com
     - icon: github
       text: Github
-      href: https://github.com/oousmane
+      href: https://github.com/bloeticia
     - icon: facebook
       text: Facebook
       href: https://www.facebook.com/profile.php?id=100008047517135
@@ -19,4 +19,6 @@ about:
 
 ------------------------------------------------------------------------
 
-Je suis Blandine, jeune technicienne passionnée et dotée d'une formation académique en Agriculture. En dehors des potagers, que j’entretiens à la maison avec amour, j’adore tout ce qui a trait aux arts culinaires. Convaincue que les repas sains sont tout ce qu’il y’a de meilleurs, je n’ai pas hésitée une seconde à suivre des cours en techniques de productions agricoles.
+Je suis Blandine, jeune technicienne passionnée et dotée d'une formation académique en Agriculture.
+En dehors des potagers, que j’entretiens à la maison avec amour, j’adore tout ce qui a trait aux arts culinaires.
+Convaincue que les repas sains sont tout ce qu’il y’a de meilleurs, je n’ai pas hésitée une seconde à suivre des cours en techniques de productions agricoles.
